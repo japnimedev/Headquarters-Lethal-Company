@@ -1,3 +1,6 @@
+## Notes
+Delete `LOGS.md` `MODS.md` `README.md`
+
 ## Errors occured
 ```
 [Error  : Unity Log] The AssetBundle 'D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\HDLethalCompany\hdlethalcompany' can't be loaded because another AssetBundle with the same files is already loaded.
