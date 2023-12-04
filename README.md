@@ -15,4 +15,5 @@ Delete `LOGS.md` `MODS.md` `README.md`
 [Error  : Unity Log] Delete file game object not found.
 [Error  : Unity Log] Error occurred while refreshing save buttons: Object reference not set to an instance of an object
 [Error  : Unity Log] Error occurred while updating files panel rect: Failed to find FilesPanel RectTransform.
+[Error  :HULLBREAKER 1.3.2] Directory does not exist: D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\HullEvents
 ```
