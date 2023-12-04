@@ -31,6 +31,7 @@
 * 1.0.4
     * [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
     * [Solos Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
+    * [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 * 1.1.0
     * [LC Symphony](https://thunderstore.io/c/lethal-company/p/alexanderjoe/LC_Symphony/)
     * [PersistentPurchases](https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases/)
